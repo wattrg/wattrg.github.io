@@ -1,2 +1,48 @@
 title: Robert Watt
-theme: jekyll-theme-cayman
+github_username: wattrg
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+minimal_mistakes_skin: "dark"
+
+search: true
+
+author:
+  name: "Robert Watt"
+  avatar: "/assets/images/sejong_statue_photo.jpg"
+  bio: "PhD student at the University of Queensland's Centre for Hypersonics studying high temperature, non-equilbrium flows"
+  links:
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/wattrg"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/robert-watt-17680111a/"  
+
+plugins: # previously gems
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+
+footer:
+  links:
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/wattrg"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/robert-watt-17680111a/"  
+    
