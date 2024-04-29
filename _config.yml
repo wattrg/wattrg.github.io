@@ -22,6 +22,9 @@ plugins: # previously gems
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-gist
+  - jemoji
+  - jekyll-include-cache
 
 defaults:
   # _posts
