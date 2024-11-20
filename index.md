@@ -1,9 +1,8 @@
 ---
 layout: home
 author_profile: true
-
+title: Hi, I'm Rob.
 ---
-## Hi, I'm Rob.
 
 Currently a PhD student in aerospace engineering, studying high-temperature, nonequilibrium gas dynamics.
 
