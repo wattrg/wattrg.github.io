@@ -8,4 +8,4 @@ Currently a PhD student in aerospace engineering, studying high-temperature, non
 
 General computational fluid dynamics, computational science, and high-performance computing enthusiast
 
-Check out some of my projects at [About](about.md)
+Check out some of my projects [here](projects.md)
